@@ -1,0 +1,16 @@
+customer_id,date,product,comment,rating
+1001,2023-01-15,Smartphone X,The phone has excellent battery life and the camera quality is outstanding. Very satisfied with my purchase!,5
+1002,2023-01-18,Smartphone X,Good phone but overheats sometimes when playing games. Otherwise works fine.,3
+1003,2023-01-20,Laptop Pro,The laptop is too heavy and the battery drains quickly. Not worth the price.,2
+1004,2023-01-22,Smartphone X,Terrible experience. The phone stopped working after just two weeks.,1
+1005,2023-01-25,Smartwatch Y,Love the fitness tracking features but the sleep tracking is inaccurate.,4
+1006,2023-01-28,Laptop Pro,Perfect for my work needs. Fast processor and great display quality.,5
+1007,2023-02-01,Earbuds Z,Sound quality is mediocre and they don't fit well in my ears.,2
+1008,2023-02-05,Smartwatch Y,The watch is stylish but the app keeps crashing. Needs improvement.,3
+1009,2023-02-10,Earbuds Z,Best earbuds I've ever owned! Great noise cancellation and battery life.,5
+1010,2023-02-15,Smartphone X,Average phone. Nothing special about it but gets the job done.,3
+1011,2023-02-20,Laptop Pro,The keyboard is uncomfortable for long typing sessions. Screen is good though.,3
+1012,2023-02-25,Smartwatch Y,Disappointed with the limited app selection. Battery life is good though.,2
+1013,2023-03-01,Earbuds Z,Connection keeps dropping when I'm more than 10 feet from my phone. Very frustrating.,1
+1014,2023-03-05,Smartphone X,Amazing value for the price! All features work perfectly and the UI is intuitive.,5
+1015,2023-03-10,Laptop Pro,Overpriced for what it offers. You can get better specs for less money elsewhere.,2
